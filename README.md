@@ -1,8 +1,8 @@
 # Assessment: Data & AI Product Engineer
 
 This repository contains two tasks:
-- Task 1: Product Scoping
-- Task 2: Pipeline Building
+- Task 1: Marketing Performance Assistant — Product Scoping
+- Task 2: Marketing Weather Pipeline — Automated Data Pipeline
 
 ## Folder structure
 - `task1_product_scoping/`: markdown-based product thinking deliverables
